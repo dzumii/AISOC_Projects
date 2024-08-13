@@ -9,7 +9,7 @@
 `docker ps`
 
 ### test the connection  
-`psql -h localhost -U vboss -d streambix`
+`psql -h localhost -U <PG_USER> -d <PG_DATABASE>`
 
 
 
